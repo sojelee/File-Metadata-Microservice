@@ -1,0 +1,22 @@
+{
+  "name": "filemetadatamicroservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Backend Project, File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fcc",
+    "express",
+    "nodejs",
+    "multer"
+  ],
+  "author": "Joseph C Myalla",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
